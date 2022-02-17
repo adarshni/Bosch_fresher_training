@@ -1,0 +1,7 @@
+C:\Users\adminvm.adminvm\source\repos\Partial_Example\Partial_Example\bin\Debug\Partial_Example.exe.config
+C:\Users\adminvm.adminvm\source\repos\Partial_Example\Partial_Example\bin\Debug\Partial_Example.exe
+C:\Users\adminvm.adminvm\source\repos\Partial_Example\Partial_Example\bin\Debug\Partial_Example.pdb
+C:\Users\adminvm.adminvm\source\repos\Partial_Example\Partial_Example\obj\Debug\Partial_Example.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\Partial_Example\Partial_Example\obj\Debug\Partial_Example.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\Partial_Example\Partial_Example\obj\Debug\Partial_Example.exe
+C:\Users\adminvm.adminvm\source\repos\Partial_Example\Partial_Example\obj\Debug\Partial_Example.pdb
